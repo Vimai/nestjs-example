@@ -57,6 +57,9 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+## Rodar migration
+
+npm run typeorm migration:run
 
 ## Support
 

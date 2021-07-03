@@ -6,7 +6,7 @@ export class Product {
   id: number;
 
   @Column()
-  idname: string;
+  name: string;
 
   @Column()
   price: number;
